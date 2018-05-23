@@ -15,7 +15,7 @@ public class Test01 {
     public Test01() {
     }
     public void demoShow(){
-        System.out.print("第一次我");
+        System.out.print("第一次我的");
     }
 
 
